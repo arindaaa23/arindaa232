@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <title>Profil Tim Kami</title>
+</head>
+<body>
+<header>
+    <h1>Tim Hebat</h1>
+</header>
+<main>
+    <h2>Anggota Tim</h2>
+    <section class="container-tim">
+        <!-- NANTI DIISI KODE DARI ORANG 2 -->
+         <article class="kartu-profil">
+    <img src="images/foto.jpg" alt="Foto">
+    <h3>Nama Lengkap Anda</h3>
+    <p>Peran dalam Tim</p>
+</article>
+<article class="kartu-profil">
+    <img src="images/foto.jpg" alt="Foto">
+    <h3>Nama Lengkap Anda</h3>
+    <p>Peran dalam Tim</p>
+</article>
+<article class="kartu-profil">
+    <img src="images/foto.jpg" alt="Foto">
+    <h3>Nama Lengkap Anda</h3>
+    <p>Peran dalam Tim</p>
+</article>
+    </section>
+</main>
+<footer>
+    <p>© 2025 Tim Hebat</p>
+</footer>
+</body>
+</html>
